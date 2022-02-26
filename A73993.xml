@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation touching common maultsters, and brewers</title>
+            <title>Proclamations. 1637-07-09</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73993</idno>
+            <idno type="STC">STC 9089</idno>
+            <idno type="STC">ESTC S123902</idno>
+            <idno type="EEBO-CITATION">99899011</idno>
+            <idno type="PROQUEST">99899011</idno>
+            <idno type="VID">150859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1984:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation touching common maultsters, and brewers</title>
+                  <title>Proclamations. 1637-07-09</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... Greenwich, the ninth day of Iuly, in the thirteenth yeare of His Maiesties reigne.</note>
+                  <note>Arms 24; Steele notation: the  sonable  2) the  3) County,  tender.</note>
+                  <note>Reproduction of original in the Cambridge University Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:150859:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ By the King. ¶ A Proclamation touching common Maultſters, and Brewers.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent Maieſty hath taken into conſideration the</hi> manifold inconueniences that ariſe to this Kingdome by the exceſſiue number of perſons, who take vpon them the Art &amp; myſtery of Mault-making in all parts of the Realme, who from time to time engroſſe and get into their hands ſuch quantities of Barley to conuert into Mault, as often produceth a ſcarcity of that kinde of Graine, which for the poorer ſort of people is their vſuall Bread the Markets alſo by meanes hereof are foreſtalled and vnfurniſhed, and ſundry abuſes and deceipts are practiſed by them in the making of Mault in vnſea<g ref="char:EOLhyphen"/>ſonable moneths of the yeare, and in leſſer ſpace of time in the Fatt, and Floore, then it can be perfectly made, and by making it of Mow-burnt, or ſpired-Barley, and by ſlack and deceitfull drying thereof, and by mixing and ſelling of good and bad Mault to<g ref="char:EOLhyphen"/>gether, and by putting to ſale of Mault not well and ſufficiently troden, rubbed or fanned from the droſſe thereof, wherby it becommeth vnwholeſome and deceiptfull in the vſe, contrary to ſundry good proviſions made by ſeverall Acts of Parliament in that behalfe, and to the com<g ref="char:EOLhyphen"/>mon deceipt of this Kingdome and people; His Maieſtie out of his Princely care to reforme aſ<g ref="char:EOLhyphen"/>well theſe euils, as ſundry other vnlawfull practices now vſed in the making and ſelling of Mault, Hath thought fit (by the aduice of His priuy Councell) to leſſen their multitude, and to appoint and ſettle in fit places of the Realme a competent number of meet perſons for com<g ref="char:EOLhyphen"/>mon Maultſters, ſuch as being approued of by his Maieſties Priuy Councell, and after incor<g ref="char:EOLhyphen"/>porated and reduced vnder gouernment, in each County, may become bound to His Maieſtie to reforme the abuſes now commonly practiſed in that Trade, and to make and ſell good and wholeſome Mault, and at reaſonable prices according to the law: And therefore His Maieſty doth hereby declare and publiſh His Royall will and pleaſure to be; And doth ſtraitly charge and command, that no perſon or perſons whatſoever now vſing, or which hereafter ſhall vſe any other Trade or myſtery, ſhall vſe or practice the Trade of a common Maultſter, or ſhall buy
+<pb facs="tcp:150859:2" rendition="simple:additions"/>Barley or other Graine to mault it, and ſell it againe; And that no perſons whatſoeuer, in the moneths of Iune, Iuly and Auguſt, or any of them doe conuert any Barley or other Grain into Mault to ſell; And that in other the proper and ſeaſonable moneths of the yeare for maulting, the ſame Mault ſhall haue in the making thereof <hi>(viz.)</hi> in the Fatt, Floore, ſteeping and drying thereof, the time and ſpace of three weekes at the leaſt, without which time the ſame cannot be well and perfectly made, nor wholeſome for mans body: And that no perſons what<g ref="char:EOLhyphen"/>ſoeuer that conuert any Graine into Mault to ſell, ſhall buy any Mault, to the intent to ſell the ſame againe. And His Maieſties pleaſure is, that no perſons whatſoeuer, from and after Chriſt<g ref="char:EOLhyphen"/>mas next, ſhall take upon them the Trade of common Maultſters, or ſhal make Mault to ſell, vn<g ref="char:EOLhyphen"/>leſſe they ſhall be incorporated and reduced vnder the ſaid gouernment, nor ſhall vſe the Trade of Maulting in any other Towne or place then ſhall be aſſigned them by His Maieſties Priuie Councell, or His Commiſſioners in that behalfe. And in all and ſingular the premiſſes, His Ma<g ref="char:EOLhyphen"/>ieſtie requireth all due conformity and obedience of His Subiects, vpon paine of His Maieſties high indignation and diſpleaſure, and ſuch penalties and puniſhments as by the Lawes or Statutes of the Realme, or otherwiſe may be inflicted on them for their contempts or neglects herein.</p>
+            <p>Neuertheleſſe, His Maieſties intentions are, that it ſhall be lawfull for all perſons which ſhall haue of their owne any Barley or Corne growing, or any Tythe Corne, or Rent-corne reſer<g ref="char:EOLhyphen"/>ued upon any Leaſe or Demiſe, to conuert into Mault all or any ſuch Barley or Corne, and to vent and ſell the ſame without reſtraint; And that any perſon or perſons ſhall and may buy any Corne or Graine, and conuert the ſame into Mault for the vſe and prouiſion of his or their own houſe or family onely, any thing herein conteined to the contrary thereof notwithſtanding.</p>
+            <p>And herein alſo His Maieſtie doth further declare his Royall Will and Pleaſure to be, That if any Maultſters whatſoeuer, already Incorporated or Licenced, or hereafter to be Incorpora<g ref="char:EOLhyphen"/>ted or Licenced, or any other perſons whatſoever, ſhall at any time or times hereafter, directly or indirectly, conſpire, combine, couenant, or agree together, That they will not buy Barley, or other Graine to conuert to Mault, nor will ſell the ſame ſo Maulted, but at ſet and certaine prices limi<g ref="char:EOLhyphen"/>ted and appointed by and amongſt themſelues, whereby His Maieſties Subiects ſhall be con<g ref="char:EOLhyphen"/>ſtrained to ſell their Barley or other Maulting Graine at low and cheape prices, and to buy their Mault at high and deare rates, or ſhall make or put in vre any other conſpiracy, combination, practice, couenant, or agreement amongſt themſelues, or any of them, tending to the Inhauncing or abating of prices, or other publique inconuenience, That then euery ſuch Corporation, or perſons ſo Licenced, or others whatſoeuer ſo conſpiring, combining, practiſing, or agreeing to<g ref="char:EOLhyphen"/>gether in ſetting of prices (being convicted thereof) ſhall not onely incurre the forfeitures, penal<g ref="char:EOLhyphen"/>ties, and puniſhments ordained by the Lawes and Statutes of this Realme in that behalfe, but ſhall be diſabled for euer after to vſe that Trade, and ſhall be further proceeded againſt with all ſe<g ref="char:EOLhyphen"/>vere and exemplary puniſhment, which His Maieſtie will ſtrictly require to be executed on them. And whereas his Maieſtie hath likewiſe taken into conſideration the manifold inconueniences ariſing to his Kingdome and people, for that Inn-keepers, Alehouſe-keepers, Tauerners, Cookes, and other Victuallers, doe take upon them to Brew the Beere and Ale they vtter by Retaile, and thereby, for their owne priuate lucre and gaine, and with the conſumption of double the Mault, and Fuell that is needfull, doe make ſtrong, heady, and unwholſome drinkes, ſeruing rather for drunkenneſſe and exceſſe, then for any good or neceſſary vſe, and doe utter and Retaile the ſame without keeping the Aſſize or prices appointed by the Law; His Maieſtie intending reformation likewiſe herein, is pleaſed to appoint and ſettle in fit places in <hi>England</hi> and <hi>Wales,</hi> a conuenient number of common Brewers, ſuch as ſhall be allowed of by His Maieſties Priuie Councell, who being likewiſe Incorporated and reduced vnder gouernment, may become bound to His Maieſtie, as well to reforme the abuſes now commonly practiſed in that Trade, as to Brew wholeſome Beere and Ale, and therein to obſerue the Aſſiſe and prices appointed by the Lawes and Statutes of the Realme, and who may alſo breed and bring vp Apprentices in the ſame Trade. His Maieſtie therefore by like aduice of His Priuie Councell, doth hereby expreſſe and declare his Royall Will and Pleaſure to be, and doth ſtraightly charge and command, That
+<pb facs="tcp:150859:3"/>no Inn-keeper, Alehouſe-keeper, Tauerner, Cooke, or Victualler whatſoeuer, in any County, Citie, Borough, Towne Corporate, or other place or places whatſoeuer, within the Realme of <hi>England,</hi> or Dominion of <hi>Wales,</hi> as well within Liberties as without, from and after the Feaſt of S. <hi>Michael</hi> the Archangell next comming, ſhall Brew any Beere or Ale, to vtter or ſell by Retaile, but ſhall haue or receiue the ſame, of or from ſome common Brewer, allowed and ſetled, or to be allowed and ſetled by His Maieſtie, or by His Commiſſioners in that behalfe. Neuerthe<g ref="char:EOLhyphen"/>leſſe, His Maieſties intentions are, That in ſuch places where there ſhall be no ſuch common Brewers allowed, or being allowed, they will not ſerue the ſaid Inn-keepers, Alehouſe-keepers, and other Victuallers with Beere and Ale, by carrying and deliuering of the ſame at their ſeuerall houſes, that in euery ſuch place onely, and in none other, it ſhall be lawfull for any the ſaid Inn-keepers, Tauerners, Alehouſe-keepers, and Victuallers, to Brew their owne Beere or Ale, and to ſell the ſame by Retaile, as heretofore they haue done; Any thing herein contained to the contrary notwithſtanding.</p>
+            <p>And His Maieſtie doth hereby further declare; That euery ſuch perſon as ſhall be allowed, as aforeſaid, for a common Brewer, ſhall not be licenced or allowed to make his owne Mault, nor ſhall vſe the Trade of a common Maultſter, Cooper, nor any other Trade; And that euery per<g ref="char:EOLhyphen"/>ſon ſo to be allowed for a common Brewer, ſhall make and ſell wholſome Beere and Ale, and ſhall ſell and vtter the ſame at reaſonable prizes, and ſhall keepe the Aſſize thereof according to the Lawes and Statutes of the Realme; And to theſe his Maieſties Royall commands, His Maieſtie doth likewiſe require of all His Subiects, all due conformitie and obedience, as they ten<g ref="char:EOLhyphen"/>der His high diſpleaſure, and ſuch puniſhments as ſhall be meet for their contempts.</p>
+            <p>Prouided alwaies, that theſe preſents, or any thing herein concerning Brewing, ſhall not extend to the Citie of <hi>London,</hi> or foure miles diſtance of the ſame. And His Maieſtie doth laſtly require and command all Iuſtices of the Peace, Mayors, Sheriffes, Bailiffes, Conſtables, Head-boroughes, and all other His Maieſties Officers and Miniſters, to take care in their ſeuerall pla<g ref="char:EOLhyphen"/>ces, that His Maieſties Royall pleaſure herein declared, may be duely performed, as they tender His Maieſties ſeruice.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at the Court at Greenwich,</hi> 
+                  <date>
+                     <hi>the ninth day of Iuly, in the thirteenth yeare of His Maieſties Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>
+               <g ref="char:leaf">❧</g> 
+               <hi>God ſaue the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie: And by the Aſsignes of Iohn Bill. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
